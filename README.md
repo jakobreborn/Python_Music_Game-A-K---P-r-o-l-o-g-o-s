@@ -1,5 +1,6 @@
 # Python_Music_Game
-Cooperation with: 
+Cooperation with:
+
   Music producer https://soundcloud.com/jakub_stankiewicz Wroclaw Modern Music School graduad.
   Graphical designer - student of Wroclaw Academy of Fine Arts. 
 
