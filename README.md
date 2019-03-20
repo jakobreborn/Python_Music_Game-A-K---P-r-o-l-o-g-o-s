@@ -8,3 +8,10 @@ Cooperation with:
 To create simple 2d music-game, point-n-click to work with android system. 
 
 Currently work in progress.
+
+Actual team:
+
+Zema Tomasz - Programmer, Project Manager
+Jakub Stankiewicz - Sound Designer
+Женя Владимирова (Jenia Vladimirova) - Art Designer
+
