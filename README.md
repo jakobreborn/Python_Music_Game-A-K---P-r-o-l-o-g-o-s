@@ -14,6 +14,8 @@ Unfortunately we have to close other cool projects to start, like Music album an
 Actual team:
 
 Zema Tomasz - Programmer, Project Manager
+
 Jakub Stankiewicz - Sound Designer
+
 Женя Владимирова (Jenia Vladimirova) - Art Designer
 
